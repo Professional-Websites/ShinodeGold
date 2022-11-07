@@ -197,13 +197,13 @@ a.full_link {
     padding:  100px 0;
     padding-top: 0;
 }
-#newabout ul {
+#newabout ul li {
     font-family:monospace;
                                     text-shadow:  2px 0 #000,  -2px 0 #000,  0 2px #000,  0 -2px #000,  1px 1px #000,  -1px -1px #000,  1px -1px #000,  -1px 1px #000;
-                                    font-size:  0.95rem;
-                                    line-height: 30px;
+                                    font-size:  1rem;
                                    
-                                    color: lightpink;list-style:disc;
+                                    color: lightpink;list-style:none;
+                                    
 }
 .hero_content p{
     text-align: center; font-family:monospace;
